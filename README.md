@@ -1,0 +1,4 @@
+# consulta_CPF
+
+- O PROJETO FAZ COM QUE VALIDE SE É UMA CPF OU NÃO.
+- 
